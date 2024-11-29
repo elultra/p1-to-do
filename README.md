@@ -23,4 +23,4 @@ This project is about a to-do list. It is a personal project, all rights reserve
 ## How to run the project:
 `git clone url` - clone the repository
 `npm install` - install dependencies
-`npm run dev` - run the project
+`npm run dev` - run the project in development mode
